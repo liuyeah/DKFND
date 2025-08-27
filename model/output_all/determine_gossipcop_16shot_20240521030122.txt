@@ -1,0 +1,3 @@
+gossipcop Accuracy: 0.832 (3545/4260)  Max_Accuracy: 0.865 (3686/4260)
+true_fake: 444 true_real: 3101 false_fake: 99 false_real: 616
+F1 score: 0.554

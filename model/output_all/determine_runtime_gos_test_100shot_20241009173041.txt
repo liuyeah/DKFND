@@ -1,0 +1,3 @@
+runtime_gos_test Accuracy: 0.8100 (81/100)  Max_Accuracy: 0.8800 (88/100)
+true_fake: 12 true_real: 69 false_fake: 7 false_real: 12
+F1 score: 0.5581

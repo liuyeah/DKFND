@@ -1,0 +1,3 @@
+zp_politifact Accuracy: 0.8800 (176/200)  Max_Accuracy: 0.9150 (183/200)  lose_inside: 3  lose_outside: 4
+true_fake: 65 true_real: 111 false_fake: 9 false_real: 15
+F1 score: 0.8442

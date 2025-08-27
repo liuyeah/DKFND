@@ -1,0 +1,3 @@
+news_t Accuracy: 0.9000 (90/100)  Max_Accuracy: 0.9600 (96/100)
+true_fake: 35 true_real: 55 false_fake: 3 false_real: 7
+F1 score: 0.8750

@@ -1,0 +1,2 @@
+politifact Accuracy: 0.519 (70/135)
+correct_fake: 23 correct_real: 47 wrong_fake: 15 wrong_real: 29

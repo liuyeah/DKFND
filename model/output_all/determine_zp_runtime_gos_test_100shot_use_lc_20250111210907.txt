@@ -1,0 +1,3 @@
+zp_runtime_gos_test Accuracy: 0.8100 (81/100)  Max_Accuracy: 0.8500 (85/100)  lose_inside: 2  lose_outside: 2
+true_fake: 11 true_real: 70 false_fake: 6 false_real: 13
+F1 score: 0.5366

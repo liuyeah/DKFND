@@ -1,0 +1,3 @@
+alp Accuracy: 0.7000 (7/10)  Max_Accuracy: 0.7000 (7/10)
+true_fake: 2 true_real: 5 false_fake: 2 false_real: 1
+F1 score: 0.5714

@@ -1,0 +1,3 @@
+politifact Accuracy: 0.865 (173/200)  Max_Accuracy: 0.910 (182/200)
+true_fake: 59 true_real: 114 false_fake: 6 false_real: 21
+F1 score: 0.814

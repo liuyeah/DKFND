@@ -1,0 +1,3 @@
+zp_news_t Accuracy: 0.9000 (90/100)  Max_Accuracy: 0.9400 (94/100)  lose_inside: 4  lose_outside: 0
+true_fake: 34 true_real: 56 false_fake: 2 false_real: 8
+F1 score: 0.8718

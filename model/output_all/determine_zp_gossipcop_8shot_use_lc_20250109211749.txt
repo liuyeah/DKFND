@@ -1,0 +1,3 @@
+zp_gossipcop Accuracy: 0.8237 (3509/4260)  Max_Accuracy: 0.8566 (3649/4260)  lose_inside: 98  lose_outside: 42
+true_fake: 463 true_real: 3046 false_fake: 154 false_real: 597
+F1 score: 0.5522
